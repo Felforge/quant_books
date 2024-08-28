@@ -1,11 +1,12 @@
-### Quant Books
-1) Stochastic Calculus for Finance I
-2) Stochastic Calculus for Finance II
-3) Arbitrage Theory in Continuous Time
-4) Implementing Derivative Models
-5) Statistical Analysis of Financial Data in R
+### Quant/Finance Books
+1) Stochastic Calculus for Finance I - Steven E. Shreve
+2) Stochastic Calculus for Finance II - Steven E. Shreve
+3) Arbitrage Theory in Continuous Time - Tomas Björk
+4) Implementing Derivative Models - Chris Strickland and Les Clewlow
+5) Statistical Analysis of Financial Data in R - René Carmona
+6) Asset Pricing - John H. Cochrane
 
-### Quant Trading
+### Quant Trading Books
 1) Quantitative Trading: How to Build Your Own Algorithmic Trading Business
 2) Algorithmic Trading: Winning Strategies and Their Rationale
 
