@@ -33,3 +33,6 @@
 2) Probabilistic Machine Learning: Advanced Topics (Not on Github)
 3) Foundations of Machine Learning
 4) The Elements of Statistical Learning
+5) All of Statistics
+6) All of Nonparametric Statistics
+7) Regression Modeling Strategies
