@@ -7,33 +7,33 @@
 6) Asset Pricing - John H. Cochrane
 
 ### Quant Trading Books
-1) Quantitative Trading: How to Build Your Own Algorithmic Trading Business
-2) Algorithmic Trading: Winning Strategies and Their Rationale
+1) Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernest P. Chan
+2) Algorithmic Trading: Winning Strategies and Their Rationale - Ernest P. Chan
 
 ### Optimization, Approximation, and Basic Analysis Books
-1) Optimization by Vector Space Methods
-2) Convex Optimization
-3) Linear Analysis
+1) Optimization by Vector Space Methods - David G. Luenberger
+2) Convex Optimization - Stephen Boyd and Lieven Vandenberghe
+3) Linear Analysis - Béla Bollobás
 
 ### Linear Algebra
-1) Numerical Linear Algebra
-2) Matrix Computations
-3) Finite-Dimensional Vector Spaces
-4) Matrix Analysis
+1) Numerical Linear Algebra - Lloyd N. Trefethen and David Bau III
+2) Matrix Computations - Gene H. Golub and Charles F. Van Loan
+3) Finite-Dimensional Vector Spaces - Paul R. Halmos
+4) Matrix Analysis - Rajendra Bhatia
 
 ### Probability
-1) Probability: Theory and Examples
-2) Probability With Martingales
-3) High-Dimensional Probability
-4) Elements of Information Theory
+1) Probability: Theory and Examples - Rick Durrett
+2) Probability With Martingales - David Williams
+3) High-Dimensional Probability - Roman Vershynin
+4) Elements of Information Theory - Thomas M. Cover and Joy A. Thomas
 
 ### Computer Science
 
 ### Machine Learning/Statistics
-1) Probabilistic Machine Learning: an Introduction (Not on Github)
-2) Probabilistic Machine Learning: Advanced Topics (Not on Github)
-3) Foundations of Machine Learning
-4) The Elements of Statistical Learning
-5) All of Statistics
-6) All of Nonparametric Statistics
-7) Regression Modeling Strategies
+1) Probabilistic Machine Learning: an Introduction ([Not on Github](https://drive.google.com/file/d/1rMZFtee-DOfjjhTONgj6sjIavgK3hTZz/view?usp=drive_link)) - Kevin P. Murphy
+2) Probabilistic Machine Learning: Advanced Topics ([Not on Github](https://drive.google.com/file/d/1VxX3vi5J7io_JPLy9b1oqndD8ANFuKHf/view?usp=drive_link)) - Kevin P. Murphy
+3) Foundations of Machine Learning - Mehryar Mohri, Afshin Rostamizadeh and Ameet Talwalkar
+4) The Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman
+5) All of Statistics - Larry Wasserman
+6) All of Nonparametric Statistics - Larry Wasserman
+7) Regression Modeling Strategies - Frank E. Harrell Jr.
