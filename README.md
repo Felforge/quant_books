@@ -5,6 +5,12 @@
 4) Implementing Derivative Models - Chris Strickland and Les Clewlow
 5) Statistical Analysis of Financial Data in R - René Carmona
 6) Asset Pricing - John H. Cochrane
+7) A Quantitative Approach to Tactical Asset Allocation (Research Paper) - Mebane T. Faber 
+8) Trading and Exchanges (Not on Github) - Larry Harris
+9) Theory of Financial Risk and Derivative Pricing (Not on Github) - Jean-Philippe Bouchaud and Marc Potters
+10) Quantitative Portfolio Management (Not on Github) - Michael Isichenko
+11) The Illusion of Control (Not on Github) - Jon Danielsson
+12) Portfolio Risk Analysis (Not on Github) - Gregory Connor, Lisa Goldberg and Robert Korajczyk
 
 ### Quant Trading Books
 1) Quantitative Trading: How to Build Your Own Algorithmic Trading Business - Ernest P. Chan
@@ -14,6 +20,7 @@
 1) Optimization by Vector Space Methods - David G. Luenberger
 2) Convex Optimization - Stephen Boyd and Lieven Vandenberghe
 3) Linear Analysis - Béla Bollobás
+4) A Course in Approximation Theory (Not on Github) - Ward Cheney and Will Light
 
 ### Linear Algebra
 1) Numerical Linear Algebra - Lloyd N. Trefethen and David Bau III
@@ -26,6 +33,7 @@
 2) Probability With Martingales - David Williams
 3) High-Dimensional Probability - Roman Vershynin
 4) Elements of Information Theory - Thomas M. Cover and Joy A. Thomas
+5) The Fundamentals of Heavy Tails (Not on Github) - Jayakrishnan Nair, Adam Wierman and Bert Zwart
 
 ### Computer Science
 
