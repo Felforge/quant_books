@@ -19,8 +19,9 @@
 ### Optimization, Approximation, and Basic Analysis Books
 1) Optimization by Vector Space Methods - David G. Luenberger
 2) Convex Optimization - Stephen Boyd and Lieven Vandenberghe
-3) Linear Analysis - Béla Bollobás
-4) A Course in Approximation Theory (Not on Github) - Ward Cheney and Will Light
+3) Understanding Analysis - Stephen Abbott
+4) Linear Analysis - Béla Bollobás
+5) A Course in Approximation Theory (Not on Github) - Ward Cheney and Will Light
 
 ### Linear Algebra
 1) Numerical Linear Algebra - Lloyd N. Trefethen and David Bau III
